@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📍 Location: Mendoza, Argentina<br>🧃 Age: 21<br>📚 I'm studying programming at UTN-FRSR.<br>💻  InterInterests: I'm passionate about exploring different programming languages and technologies, as well as graphic design.<br>👍 Fun fact: I like penguins 🐧🐧</p>
+<p align="left">📍 Location: Mendoza, Argentina<br>🧃 Age: 21<br>📚 I'm studying programming at UTN-FRSR.<br>💻  Interests: I'm passionate about exploring different programming languages and technologies, as well as graphic design.<br>👍 Fun fact: I like penguins 🐧🐧</p>
 
 ###
 
