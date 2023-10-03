@@ -66,13 +66,6 @@
   <img src="https://profile-counter.glitch.me/macmauro/count.svg?"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://i.imgur.com/xdqkuPR.jpg"  />
-</div>
 
 ###
 
@@ -81,16 +74,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=macmauro&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=macmauro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=macmauro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ###
+<br clear="both">
 
-<img align="right" height="150" src="https://i.imgur.com/nG9fKLs.jpg"  />
+<div align="center">
+  <img height="150" src="https://i.imgur.com/xdqkuPR.jpg"  />
+</div>
 
-###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 mauromesas/mauromesas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
