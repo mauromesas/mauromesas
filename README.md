@@ -1,27 +1,87 @@
-<h1 align="left">Hey 👋</h1>
+<h2 align="center">Helloooooooo👋</h2>
 
 ###
 
-My name is Mauro, and this is my GitHub profile. Welcome! 
+<div align="center">
+  <img height="200" src="https://i.imgur.com/HCdsxWR.jpg"  />
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
-
-<p align="left">🎂 Age: 21</p>
-<p align="left">📍 Location: Mendoza, Argentina</p>
-<p align="left">🎲 Fun fact: I like penguins 🐧</p>
-
+<h5 align="center">My name is Mauro, and this is my GitHub profile. Welcome!</h5>
 
 ###
 
-# 💻 I'm currently learning:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+<h2 align="left">About me!!</h2>
 
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=macmauro&icon=5&color=12)](https://visitcount.itsvg.in)
+<img align="left" height="150" src="https://i.imgur.com/Ct9bopW.jpg"  />
 
+###
+
+<p align="left">📍 Location: Mendoza, Argentina<br>🧃 Age: 21<br>📚 I'm studying programming at UTN-FRSR.<br>💻  InterInterests: I'm passionate about exploring different programming languages and technologies, as well as graphic design.<br>👍 Fun fact: I like penguins 🐧🐧</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Using and learning:</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="125" src="https://i.imgur.com/92DPyyd.jpg"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<img align="left" height="130" src="https://i.imgur.com/Au5pJnU.jpg"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=macmauro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macmauro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/macmauro/count.svg?"  />
+</div>
+
+###
+
+<img align="left" height="150" src="https://i.imgur.com/xdqkuPR.jpg"  />
+
+###
+
+<img align="right" height="150" src="https://i.imgur.com/nG9fKLs.jpg"  />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 mauromesas/mauromesas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
