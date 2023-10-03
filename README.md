@@ -60,11 +60,6 @@
 
 <img align="left" height="130" src="https://i.imgur.com/Au5pJnU.jpg"  />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/macmauro/count.svg?"  />
-</div>
 
 
 ###
@@ -79,6 +74,10 @@
 
 <div align="center">
   <img height="150" src="https://i.imgur.com/xdqkuPR.jpg"  />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/macmauro/count.svg?"  />
 </div>
 
 
