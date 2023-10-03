@@ -63,19 +63,28 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macmauro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macmauro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/macmauro/count.svg?"  />
 </div>
 
 ###
 
-<img align="left" height="150" src="https://i.imgur.com/xdqkuPR.jpg"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.imgur.com/xdqkuPR.jpg"  />
+</div>
+
+###
+
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=macmauro&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=macmauro&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=macmauro&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=macmauro&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
