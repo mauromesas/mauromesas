@@ -57,8 +57,6 @@ Hi, I'm Mauro. I'm a programming student from Argentina 🇦🇷.
 
 <div style="display: flex;">
   <img align="center" height="50" src="https://i.imgur.com/Au5pJnU.jpg" />
-  <img align="center" height="50" src="https://i.imgur.com/Ct9bopW.jpg" />
-  <img align="center" height="50" src="https://i.imgur.com/xdqkuPR.jpg" />
 </div>
 
 <br/>
