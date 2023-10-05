@@ -34,7 +34,7 @@ Hi, I'm Mauro. I'm a programming student from Argentina 🇦🇷.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-
+<br/>
 <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
