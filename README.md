@@ -1,88 +1,67 @@
-<h2 align="center">Helloooooooo👋</h2>
+<h3 align="left">Hi, I'm Mauro. I'm programming student from Argentina 🇦🇷.</h3>
 
-###
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+- 🌱 I’m currently learning **Python, Java, Javascript, Linux**
+- 💻 Interests: I'm passionate about exploring different programming languages and technologies, as well as graphic design.
+- ⚡ Fun fact **I like penguins 🐧🐧**
 
-<div align="center">
-  <img height="200" src="https://i.imgur.com/HCdsxWR.jpg"  />
+<br/>
+
+<div align="left"> 
+  <a href="mailto:mauromesas98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+<!--  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
-###
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+ 
 
-<h5 align="center">My name is Mauro, and this is my GitHub profile. Welcome!</h5>
-
-###
-
-<h2 align="left">About me!!</h2>
-
-###
-
-<img align="left" height="150" src="https://i.imgur.com/Ct9bopW.jpg"  />
-
-###
-
-<p align="left">📍 Location: Mendoza, Argentina<br>🧃 Age: 21<br>📚 I'm studying programming at UTN-FRSR.<br>💻  Interests: I'm passionate about exploring different programming languages and technologies, as well as graphic design.<br>👍 Fun fact: I like penguins 🐧🐧</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Using and learning:</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="125" src="https://i.imgur.com/92DPyyd.jpg"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
-
-###
-
-<img align="left" height="130" src="https://i.imgur.com/Au5pJnU.jpg"  />
-
-
-
-###
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mauromesas&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mauromesas&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mauromesas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-###
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://i.imgur.com/xdqkuPR.jpg"  />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mauromesas/count.svg?"  />
+<h3 align="left">➔ Languages-Tools</h3>
+<br/>
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-mauromesas/mauromesas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- <div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div> -->
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+<h3 align="left">➔ Stats</h3>
+<br>
+<div align=left>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=mauromesas&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauromesas&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
+<br/><br/>
+
+<div style="display: flex;">
+  <img align="center" height="50" src="https://i.imgur.com/Au5pJnU.jpg" />
+  <img align="center" height="50" src="https://i.imgur.com/Ct9bopW.jpg" />
+  <img align="center" height="50" src="https://i.imgur.com/xdqkuPR.jpg" />
+</div>
+
+<br/>
