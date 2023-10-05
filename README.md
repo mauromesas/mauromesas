@@ -19,10 +19,8 @@ Hi, I'm Mauro. I'm a programming student from Argentina 🇦🇷.
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
- 
 
-<h3 align="left">➔ Languages-Tools</h3>
-<br/>
+- Languages-tools:
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -47,8 +45,8 @@ Hi, I'm Mauro. I'm a programming student from Argentina 🇦🇷.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<h3 align="left">➔ Stats</h3>
-<br>
+- Stats:
+
 <div align=left>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mauromesas&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
   <br/>
