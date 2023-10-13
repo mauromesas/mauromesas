@@ -45,7 +45,6 @@ Hi, I'm Mauro. I'm a programming student from Argentina 🇦🇷.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-- Stats:
 
 <div align=left>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=mauromesas&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
