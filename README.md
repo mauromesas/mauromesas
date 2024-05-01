@@ -1,5 +1,3 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=18&duration=4800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=hey%2C+i'm+Mauro+welcome+to+my+profile!" align="middle">
-
 I'm a programming student from Argentina 🇦🇷.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🌱 I’m currently learning: **Python, Java, Javascript, Linux**
